@@ -1,0 +1,33 @@
+_repo: Medical-Jurisprudence-Volume-2-of-3_63830
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Paris, John Ayrton
+    alias: Paris, J. A. (John Ayrton)
+    birthdate: 1785
+    deathdate: 1856
+    gutenberg_agent_id: '43264'
+    url: http://www.gutenberg.org/2009/agents/43264
+    wikipedia: https://en.wikipedia.org/wiki/John_Ayrton_Paris
+  - agent_name: Fonblanque, J. S. M. (John Samuel Martin)
+    aliases:
+    - Grenier Fonblanque, John Samuel Martin de
+    - Fonblanque, John Samuel Martin
+    birthdate: 1787
+    deathdate: 1865
+    gutenberg_agent_id: '52342'
+    url: http://www.gutenberg.org/2009/agents/52342
+    wikipedia: https://en.wikipedia.org/wiki/John_Samuel_Martin_Fonblanque
+description: ''
+gutenberg_issued: '2020-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Medical Jurisprudence, Volume 2 (of 3)
+url: http://www.gutenberg.org/ebooks/63830
